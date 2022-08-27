@@ -4,10 +4,6 @@
   "description": "Skol Gatekeeper guarding the entrance to the Metaverse... ",
   "seller_fee_basis_points": 777,
   "image": "https://raw.githubusercontent.com/SirDrewske/assets/main/newskullgate.png",
-  "external_url": "",
-  "collection": {
-    "name": "Skol Gate Keepers",
-    "family": "LaunchMyNFT"
   },
   "attributes": [
     {
