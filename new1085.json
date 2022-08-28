@@ -1,0 +1,59 @@
+{
+  "name": "Gate Keeper1085",
+  "symbol": "Skolz",
+  "description": "Skol Gatekeeper guarding the entrance to the Metaverse... ",
+  "seller_fee_basis_points": 777,
+  "image": "https://raw.githubusercontent.com/SirDrewske/assets/main/newskullgate1085.png",
+  "external_url": "",
+  "collection": {
+    "name": "Skol Gate Keepers",
+    "family": "LaunchMyNFT"
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "BKbrown"
+    },
+    {
+      "trait_type": "Gates",
+      "value": "Gate3"
+    },
+    {
+      "trait_type": "Skolz",
+      "value": "Skullwhite"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyes2"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Nose1"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Hat3"
+    },
+    {
+      "trait_type": "Rarity Rank",
+      "value": 1515,
+      "display_type": "number",
+      "max_value": 2444
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/SirDrewske/assets/main/newskullgate1085.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7CPh87XDdp4ADGPxHCgGiyiBQUVmLvWPrRc2tP9HQvdi",
+        "share": 100
+      }
+    ]
+  }
+}
